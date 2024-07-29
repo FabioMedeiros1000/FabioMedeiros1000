@@ -39,8 +39,8 @@ Landing page de filmes do Homem-Aranha, com categorização por ator e lista per
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FabioMedeiros1000&show_icons=true&theme=transparent)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMedeiros1000&layout=compact&theme=transparent)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FabioMedeiros1000&show_icons=true&theme=transparent&border_color=000000)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMedeiros1000&layout=compact&theme=transparent&&border_color=000000)
 
 ## Contato
 
