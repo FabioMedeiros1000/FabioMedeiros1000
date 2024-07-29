@@ -1,4 +1,4 @@
-# Olá! Me chamo Fábio 👋
+# Olá! Eu sou Fábio 👋
 
 Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcionais. Amo aprender novas tecnologias e estou sempre em busca de desafios que me permitam crescer profissionalmente.
 
@@ -12,20 +12,30 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 ![Parcel](https://img.shields.io/badge/-Parcel-BDB76B?style=flat&logo=parcel&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Grunt](https://img.shields.io/badge/-Grunt-FBAA28?style=flat&logo=grunt&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![Ajax](https://img.shields.io/badge/-Ajax-003B57?style=flat&logo=ajax&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![LESS](https://img.shields.io/badge/-LESS-1D365D?style=flat&logo=less&logoColor=white)
+![SMACSS](https://img.shields.io/badge/-SMACSS-1F77B4?style=flat&logo=smacss&logoColor=white)
+![BEM](https://img.shields.io/badge/-BEM-61DAFB?style=flat&logo=bem&logoColor=white)
 
 ## Projetos Destacados
 
-### [Clone Disney Plus](https://clone-disneyplus-two-gamma.vercel.app/)
-Um clone da interface do Disney Plus desenvolvido para fins educacionais. [Veja o código](https://github.com/FabioMedeiros1000/clone_disneyplus).
+### [Clone do Disney Plus](https://clone-disneyplus-two-gamma.vercel.app/)
+Um clone da interface do Disney Plus desenvolvido para fins de aprendizado. [Veja o código](https://github.com/FabioMedeiros1000/clone_disneyplus).
+
+### [TechBooks](https://github.com/FabioMedeiros1000/techbooks)
+Uma loja fictícia para a venda de eletrônicos, incluindo ferramenta de categorização. [Veja o código](https://github.com/FabioMedeiros1000/techbooks).
+
+### [Loja Arduino](https://github.com/FabioMedeiros1000/loja-arduino)
+Uma loja virtual fictícia para produtos relacionados a Arduino, com funcionalidades de busca e filtro. [Veja o código](https://github.com/FabioMedeiros1000/loja-arduino).
+
+### [Projeto Lista de Tarefas](https://github.com/FabioMedeiros1000/projeto-lista-de-tarefas)
+Uma aplicação para gerenciamento de tarefas, com funcionalidades de adicionar e remover tarefas. [Veja o código](https://github.com/FabioMedeiros1000/projeto-lista-de-tarefas).
 
 ### [Landing Page do Homem-Aranha](https://filmeflix-homem-aranha.vercel.app/)
-Página de aterrissagem simples para filmes do Homem-Aranha, com categorização por ator e lista personalizada. [Veja o código](https://github.com/FabioMedeiros1000/filmeflix-homem-aranha).
-
-### [Meu Aniversário](https://meu-aniversario-fabio.vercel.app/)
-Página de convite para uma festa de aniversário fictícia, com campo de email e timer. [Veja o código](https://github.com/FabioMedeiros1000/meu-aniversario).
-
-### [EBAC TECH TALKS](https://ebac-tech-talks-dusky-phi.vercel.app/)
-Página web para divulgar um evento de tecnologia fictício, com timer e informações sobre as áreas de tecnologia abordadas. [Veja o código](https://github.com/FabioMedeiros1000/ebac-tech-talks).
+Landing page de filmes do Homem-Aranha, com categorização por ator e lista personalizada. [Veja o código](https://github.com/FabioMedeiros1000/filmeflix-homem-aranha).
 
 ## Estatísticas do GitHub
 
@@ -35,6 +45,5 @@ Página web para divulgar um evento de tecnologia fictício, com timer e informa
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/fab-leandro/)
-- [Portfólio](https://www.seuportfolio.com)
+- [Portfólio](https://github.com/FabioMedeiros1000/curso_ebac_frontend)
 - Email: fabio.leandro.medeiros@gmail.com
-
