@@ -48,4 +48,4 @@ Landing page de filmes do Homem-Aranha, com categorização por ator e lista per
 - [Portfólio](https://github.com/FabioMedeiros1000/curso_ebac_frontend)
 - Email: fabio.leandro.medeiros@gmail.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
