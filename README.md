@@ -19,6 +19,8 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 ![LESS](https://img.shields.io/badge/-LESS-1D365D?style=flat&logo=less&logoColor=white)
 ![SMACSS](https://img.shields.io/badge/-SMACSS-1F77B4?style=flat&logo=smacss&logoColor=white)
 ![BEM](https://img.shields.io/badge/-BEM-61DAFB?style=flat&logo=bem&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 
 ## Projetos Destacados
 
@@ -47,5 +49,3 @@ Landing page de filmes do Homem-Aranha, com categorização por ator e lista per
 - [LinkedIn](https://www.linkedin.com/in/fab-leandro/)
 - [Portfólio](https://github.com/FabioMedeiros1000/curso_ebac_frontend)
 - Email: fabio.leandro.medeiros@gmail.com
-
-
