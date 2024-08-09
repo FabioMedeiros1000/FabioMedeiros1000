@@ -28,7 +28,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 Experimente uma recriação imersiva da interface do Disney Plus, com funcionalidades que simulam a experiência de navegação original. Este projeto destaca a integração de navegação, interatividade com JavaScript, e uso de tecnologias modernas de front-end. [Veja o código](https://github.com/FabioMedeiros1000/clone_disneyplus).
 
 ### [Calculadora Simples](https://calculadora-simples-umber.vercel.app/)
-Uma calculadora web intuitiva desenvolvida com Vue.js que realiza operações matemáticas básicas de forma dinâmica e instantânea. O design responsivo e a usabilidade são o foco desta aplicação. [Veja o código](https://github.com/FabioMedeiros1000/calculadora-vuejs).
+Uma calculadora web intuitiva desenvolvida com Vue.js que realiza operações matemáticas básicas de forma dinâmica e instantânea. O design responsivo e a usabilidade são o foco desta aplicação. [Veja o código](https://github.com/FabioMedeiros1000/calculadora-simples).
 
 ### [Calculadora de IMC](https://calculadora-imc-flm.vercel.app/)
 Um aplicativo prático para calcular o Índice de Massa Corporal (IMC) que fornece classificações de peso baseadas em dados de altura e peso do usuário. Este projeto foi feito com React. [Veja o código](https://github.com/FabioMedeiros1000/calculadora-imc).
