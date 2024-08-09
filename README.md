@@ -25,19 +25,25 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 ## Projetos Destacados
 
 ### [Clone do Disney Plus](https://clone-disneyplus-two-gamma.vercel.app/)
-Um clone da interface do Disney Plus desenvolvido para fins de aprendizado. [Veja o código](https://github.com/FabioMedeiros1000/clone_disneyplus).
+Experimente uma recriação imersiva da interface do Disney Plus, com funcionalidades que simulam a experiência de navegação original. Este projeto destaca a integração de navegação, interatividade com JavaScript, e uso de tecnologias modernas de front-end. [Veja o código](https://github.com/FabioMedeiros1000/clone_disneyplus).
+
+### [Calculadora Simples](https://calculadora-simples-umber.vercel.app/)
+Uma calculadora web intuitiva desenvolvida com Vue.js que realiza operações matemáticas básicas de forma dinâmica e instantânea. O design responsivo e a usabilidade são o foco desta aplicação. [Veja o código](https://github.com/FabioMedeiros1000/calculadora-vuejs).
+
+### [Calculadora de IMC](https://calculadora-imc-flm.vercel.app/)
+Um aplicativo prático para calcular o Índice de Massa Corporal (IMC) que fornece classificações de peso baseadas em dados de altura e peso do usuário. Este projeto foi feito com React. [Veja o código](https://github.com/FabioMedeiros1000/calculadora-imc).
+
+### [Filme-Flix Homem-Aranha](https://filmeflix-homem-aranha.vercel.app/)
+Uma landing page interativa e visualmente atraente que exibe os filmes do Homem-Aranha com categorização por ator. Destaca-se pelo design criativo e funcionalidades de listagem e filtragem. [Veja o código](https://github.com/FabioMedeiros1000/filmeflix-homem-aranha).
+
+### [Todo-Vue](https://github.com/FabioMedeiros1000/todo-vue)
+Uma aplicação de lista de tarefas criada com Vue.js que oferece funcionalidades de adicionar, remover e gerenciar tarefas, com uma interface limpa e responsiva. [Veja o código](https://github.com/FabioMedeiros1000/todo-vue).
+
+### [Loja Arduino](https://github.com/FabioMedeiros1000/loja-arduino)
+Um projeto de e-commerce fictício para produtos Arduino, com funcionalidades de busca e categorização e um carrinho de compras interativo. [Veja o código](https://github.com/FabioMedeiros1000/loja-arduino).
 
 ### [TechBooks](https://github.com/FabioMedeiros1000/techbooks)
 Uma loja fictícia para a venda de eletrônicos, incluindo ferramenta de categorização. [Veja o código](https://github.com/FabioMedeiros1000/techbooks).
-
-### [Loja Arduino](https://github.com/FabioMedeiros1000/loja-arduino)
-Uma loja virtual fictícia para produtos relacionados a Arduino, com funcionalidades de busca e filtro. [Veja o código](https://github.com/FabioMedeiros1000/loja-arduino).
-
-### [Projeto Lista de Tarefas](https://github.com/FabioMedeiros1000/projeto-lista-de-tarefas)
-Uma aplicação para gerenciamento de tarefas, com funcionalidades de adicionar e remover tarefas. [Veja o código](https://github.com/FabioMedeiros1000/projeto-lista-de-tarefas).
-
-### [Landing Page do Homem-Aranha](https://filmeflix-homem-aranha.vercel.app/)
-Landing page de filmes do Homem-Aranha, com categorização por ator e lista personalizada. [Veja o código](https://github.com/FabioMedeiros1000/filmeflix-homem-aranha).
 
 ## Estatísticas do GitHub
 
