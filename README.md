@@ -49,7 +49,7 @@ Uma loja fictícia para a venda de eletrônicos, incluindo ferramenta de categor
 
 <div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=FabioMedeiros1000&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMedeiros1000&layout=compact&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b" />
+  <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMedeiros1000&layout=compact&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b" />
 </div>
 
 ## Contato
