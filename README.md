@@ -45,7 +45,3 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/fab-leandro/)
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](mailto:fabio.leandro.medeiros@gmail.com)
-
-- [LinkedIn](https://www.linkedin.com/in/fab-leandro/)
-- [Portfólio](https://github.com/FabioMedeiros1000/curso_ebac_frontend)
-- Email: fabio.leandro.medeiros@gmail.com
