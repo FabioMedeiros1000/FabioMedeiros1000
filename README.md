@@ -26,7 +26,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 
 ## Projetos Destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=clone_disneyplus.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=clone_disneyplus&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### [Clone do Disney Plus](https://clone-disneyplus-two-gamma.vercel.app/)
 Experimente uma recriação imersiva da interface do Disney Plus, com funcionalidades que simulam a experiência de navegação original. Este projeto destaca a integração de navegação, interatividade com JavaScript, e uso de tecnologias modernas de front-end. [Veja o código](https://github.com/FabioMedeiros1000/clone_disneyplus).
