@@ -26,7 +26,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 
 ## Projetos Destacados
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=clone_disneyplus&theme=dark&cache_seconds=86400)](https://github.com/FabioMedeiros1000/clone_disneyplus)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=clone_disneyplus&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/clone_disneyplus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=calculadora-simples&theme=dark&cache_seconds=86400)](https://github.com/FabioMedeiros1000/calculadora-simples)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=calculadora-imc&theme=dark&cache_seconds=86400)](https://github.com/FabioMedeiros1000/calculadora-imc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=todo-vue&theme=dark&cache_seconds=86400)](https://github.com/FabioMedeiros1000/todo-vue)
