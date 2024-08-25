@@ -33,6 +33,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=filmeflix-homem-aranha&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/filmeflix-homem-aranha)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=techbooks&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/techbooks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=loja-arduino&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/loja-arduino)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=todo-react&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/todo-react)
 
 ## Estatísticas do GitHub
 
