@@ -16,6 +16,8 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat&logo=testing-library&logoColor=white)
 ![Ajax](https://img.shields.io/badge/-Ajax-003B57?style=flat&logo=ajax&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
