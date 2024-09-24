@@ -1,6 +1,6 @@
 # Olá! Eu sou Fábio 👋
 
-Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcionais. Amo aprender novas tecnologias e estou sempre em busca de desafios que me permitam crescer profissionalmente.
+Sou um desenvolvedor front-end apaixonado por criar interfaces elegantes e funcionais. Amo aprender novas tecnologias e estou sempre em busca de desafios que me permitam crescer profissionalmente.
 
 ## Tecnologias e Ferramentas
 
