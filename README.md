@@ -49,15 +49,10 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces elegantes e funci
 
 ## Contato
 
-<div>
-  <p><b>Telefone:</b> (82) 99187-1637</p>
-  <a href="https://www.linkedin.com/in/fab-leandro/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">
-  </a>
-  <a href="mailto:fabio.leandro.medeiros@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30">
-  </a>
-</div>
+***Telefone:*** (82) 99187-1637
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">](https://www.linkedin.com/in/fab-leandro/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30">](fabio.leandro.medeiros@gmail.com)
+
 
 
 
