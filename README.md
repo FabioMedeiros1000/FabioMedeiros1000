@@ -51,9 +51,4 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces elegantes e funci
 
 - **Telefone:** (82) 99187-1637
 - **Email:** fabio.leandro.medeiros@gmail.com
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fab-leandro/)
-
-
-
-
-
+- **Linkedin:** https://www.linkedin.com/in/fab-leandro/
