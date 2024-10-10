@@ -49,7 +49,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces elegantes e funci
 
 ## Contato
 
-<div>
+<div style="text-decoration: none;">
   <p><b>Telefone:</b> (82) 99187-1637</p>
   <a href="https://www.linkedin.com/in/fab-leandro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="30">
