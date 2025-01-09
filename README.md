@@ -29,6 +29,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces elegantes e funci
 ## Projetos Destacados
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=efood&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0)](https://github.com/FabioMedeiros1000/efood)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=code-connect-next&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0)](https://github.com/FabioMedeiros1000/code-connect-next)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=agenda-contatos-react&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/agenda-contatos-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=todo-react&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/todo-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=todo-vue&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/todo-vue)
