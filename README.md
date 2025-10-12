@@ -1,6 +1,6 @@
 # Olá! Eu sou Fábio 👋
 
-Desenvolvedor Fullstack e Analista de Dados/IA, apaixonado por criar aplicações web interativas e soluções inteligentes com dados. Sempre em busca de desafios que combinem desenvolvimento, aprendizado contínuo e automação.
+Desenvolvedor Fullstack e Cientista de Dados/IA, apaixonado por criar aplicações web interativas e soluções inteligentes com dados. Sempre em busca de desafios que combinem desenvolvimento, aprendizado contínuo e automação.
 
 ## Tecnologias e Ferramentas
 
