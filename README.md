@@ -31,19 +31,12 @@ Desenvolvedor Fullstack e Analista de Dados/IA, apaixonado por criar aplicaçõe
 
 ## Projetos Destacados
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=ai-cf88&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0)](https://github.com/FabioMedeiros1000/ai-cf88)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=crew-que-cria-crew&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0)](https://github.com/FabioMedeiros1000/crew-que-cria-crew)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=portfolio&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0&random=123)](https://github.com/FabioMedeiros1000/portfolio)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=efood&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0)](https://github.com/FabioMedeiros1000/efood)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=code-connect-next&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0)](https://github.com/FabioMedeiros1000/code-connect-next)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=agenda-contatos-react&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/agenda-contatos-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=todo-react&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/todo-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=todo-vue&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/todo-vue)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=calculadora-imc&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/calculadora-imc)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=clone_disneyplus&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/clone_disneyplus)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=desafio-alura-gemini-quiz&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/desafio-alura-gemini-quiz)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=filmeflix-homem-aranha&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/filmeflix-homem-aranha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=techbooks&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/techbooks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=loja-arduino&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/loja-arduino) 
-
 
 ## Estatísticas do GitHub
 
