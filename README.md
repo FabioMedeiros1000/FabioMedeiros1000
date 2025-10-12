@@ -48,5 +48,5 @@ Desenvolvedor Fullstack e Analista de Dados/IA, apaixonado por criar aplicaçõe
 ## Contato
 
 - **Telefone:** (82) 99187-1637
-- **Email:** contato@fabiomedeirosdev.com
-- **Linkedin:** https://www.linkedin.com/in/fabiomedeirosdev/
+- **Email:** fabio.leandro.medeiros@gmail.com
+- **Linkedin:** https://www.linkedin.com/in/fabiomedeirostech/
