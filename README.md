@@ -29,22 +29,6 @@ Desenvolvedor Fullstack e Cientista de Dados/IA, apaixonado por criar aplicaçõ
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## Projetos Destacados
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=ai-cf88&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0)](https://github.com/FabioMedeiros1000/ai-cf88)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=crew-que-cria-crew&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0)](https://github.com/FabioMedeiros1000/crew-que-cria-crew)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=portfolio&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0&random=123)](https://github.com/FabioMedeiros1000/portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=efood&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0)](https://github.com/FabioMedeiros1000/efood)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=code-connect-next&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=0)](https://github.com/FabioMedeiros1000/code-connect-next)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FabioMedeiros1000&repo=agenda-contatos-react&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b&cache_seconds=86400)](https://github.com/FabioMedeiros1000/agenda-contatos-react)
-
-## Estatísticas do GitHub
-
-<div>
-  <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=FabioMedeiros1000&show_icons=true&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b" />
-  <img style="height: 180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioMedeiros1000&layout=compact&bg_color=edebe6&title_color=d3643b&text_color=403b33&icon_color=d3643b" />
-</div>
-
 ## Contato
 
 - **Telefone:** (82) 99187-1637
